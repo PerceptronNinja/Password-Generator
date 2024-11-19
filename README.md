@@ -79,7 +79,8 @@ PasswordGenerator/
 ## Screenshots
 
 ### Home Page
-![Password Generator UI](https://via.placeholder.com/800x400?text=Password+Generator+UI)
+<img width="1470" alt="Screenshot 2024-11-19 at 6 30 27 PM" src="https://github.com/user-attachments/assets/47e0f72c-32b1-4ae5-a408-52bc848705c1">
+
 
 ---
 
